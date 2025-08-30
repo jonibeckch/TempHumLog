@@ -3,7 +3,7 @@ data is collected under:
 /home/pi/ in -> "temphum"
 
 Data is used to create plots, which are directly copied into:
-/var/www/
+/var/www/html/
 To make it easily available for the running web server on the pi
 
 
