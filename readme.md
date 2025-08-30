@@ -1,6 +1,6 @@
 Structure:
 data is collected under:
-/home/pi/ in different subfolders.
+/home/pi/ in -> "temphum"
 
 Data is used to create plots, which are directly copied into:
 /var/www/
